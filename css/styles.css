@@ -1,0 +1,12 @@
+.navbar{
+    float: right;
+    font-family: fantasy;
+    font-size: medium;
+    background-color:skyblue ;
+    text-shadow: slateblue;
+}
+.navbar.a{
+    text-align: right;
+    font-size: 30px;
+    font-family: fantasy;
+}
